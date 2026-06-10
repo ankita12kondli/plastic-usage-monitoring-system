@@ -1,0 +1,30 @@
+========================================
+PLASTIC USAGE MONITORING - QUICK START
+========================================
+
+FOR MAM DEMO - RUN THIS ONE COMMAND:
+
+    start-project.bat
+
+========================================
+
+WHAT IT DOES:
+1. Starts the server automatically
+2. Waits 20 seconds for server to be ready
+3. Opens browser with your project
+4. Shows login details in terminal
+
+========================================
+
+LOGIN DETAILS:
+- Admin:  admin / password
+- User:   john_doe / password
+
+URL: http://localhost:8082/plastic-usage-monitoring/
+
+========================================
+
+TO STOP:
+Close the "Server" window
+
+========================================
